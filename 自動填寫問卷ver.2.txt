@@ -138,4 +138,4 @@ function validate(){return true;}
 
 var btn = document.getElementById("submit_button");  
 
-window.setTimeout(btn.click(),2000);
+//window.setTimeout(btn.click(),2000);
